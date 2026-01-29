@@ -20,7 +20,7 @@ Do not research under the influence of a backtest." - Marcos López de Prado (20
 - Universe selection based on trading volume 
 - Explorative data analysis
 - Bootstrapping for difference in conditioal expecteded returns (feature selection)
-- **Regime Filter**: Cumsum based, with monhly recalculation
+- **Regime Filter**: Cumsum based, with monthly recalculation
 - Features:
   - Momentum for 7, 20 and 30 days
   - Momentum divergence (Score from two momentum features)
